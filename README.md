@@ -1,4 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIHRAIM04&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIHRAIM04&show_icons=true&theme=tokyonight)](https://github.com/HIHRAIM04/github-readme-stats)
+<a href="https://github.com/HIHRAIM04/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HIHRAIM04&repo=github-readme-stats&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/HIHRAIM04/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HIHRAIM04&repo=convoychat&show_icons=true&theme=tokyonight" />
+</a>
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIHRAIM04&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIHRAIM04&show_icons=true&theme=tokyonight)](https://github.com/HIHRAIM04/github-readme-stats) --!>
 
 
 <!-- <details>
