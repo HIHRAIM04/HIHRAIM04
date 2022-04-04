@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Shalom 👋, i'm HIHRAIM</h1>
+<h3 align="center">A student-programmer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hihraim04&label=Profile%20views&color=0e75b6&style=flat" alt="hihraim04" /> </p>
 
