@@ -14,4 +14,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hihraim04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hihraim04" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hihraim04&show_icons=true&locale=en&theme=tokyonight" alt="hihraim04" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hihraim04&theme=tokyonight" alt="hihraim04" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hihraim04&theme=tokyonight" alt="hihraim04" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hihraim04&theme=tokyonight" alt="hihraim04" /></a> </p>
