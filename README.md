@@ -1,5 +1,5 @@
 <h1 align="center">Shalom 👋, i'm HIHRAIM</h1>
-<h3 align="center">A student-programmer from Ukraine</h3>
+<h3 align="center">A student-programmer from Ukraine. You can find translations for the game of The Battle of Polytopia in my profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hihraim04&label=Profile%20views&color=0e75b6&style=flat" alt="hihraim04" /> </p>
 
